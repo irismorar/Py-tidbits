@@ -4,4 +4,4 @@ def main(n):
     sum += i*i
   return sum
 
-print(main(5))
+print(main(10))
